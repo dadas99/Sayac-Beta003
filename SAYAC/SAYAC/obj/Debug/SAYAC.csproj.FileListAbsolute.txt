@@ -1,0 +1,27 @@
+C:\Users\RCAI\source\repos\SAYAC\SAYAC\bin\Debug\SAYAC.exe.config
+C:\Users\RCAI\source\repos\SAYAC\SAYAC\bin\Debug\SAYAC.exe
+C:\Users\RCAI\source\repos\SAYAC\SAYAC\bin\Debug\SAYAC.pdb
+C:\Users\RCAI\source\repos\SAYAC\SAYAC\obj\Debug\SAYAC.csprojAssemblyReference.cache
+C:\Users\RCAI\source\repos\SAYAC\SAYAC\obj\Debug\SAYAC.Form1.resources
+C:\Users\RCAI\source\repos\SAYAC\SAYAC\obj\Debug\SAYAC.Form2.resources
+C:\Users\RCAI\source\repos\SAYAC\SAYAC\obj\Debug\SAYAC.Form3.resources
+C:\Users\RCAI\source\repos\SAYAC\SAYAC\obj\Debug\SAYAC.Properties.Resources.resources
+C:\Users\RCAI\source\repos\SAYAC\SAYAC\obj\Debug\SAYAC.csproj.GenerateResource.cache
+C:\Users\RCAI\source\repos\SAYAC\SAYAC\obj\Debug\SAYAC.csproj.CoreCompileInputs.cache
+C:\Users\RCAI\source\repos\SAYAC\SAYAC\obj\Debug\SAYAC.exe
+C:\Users\RCAI\source\repos\SAYAC\SAYAC\obj\Debug\SAYAC.pdb
+C:\Users\RCAI\source\repos\SAYAC\SAYAC\obj\Debug\SAYAC.Form4.resources
+C:\Users\baba_\OneDrive\Masaüstü\Yeni klasör\SAYAC-master\SAYAC\SAYAC\bin\Debug\SAYAC.exe.config
+C:\Users\baba_\OneDrive\Masaüstü\Yeni klasör\SAYAC-master\SAYAC\SAYAC\bin\Debug\SAYAC.exe
+C:\Users\baba_\OneDrive\Masaüstü\Yeni klasör\SAYAC-master\SAYAC\SAYAC\bin\Debug\SAYAC.pdb
+C:\Users\baba_\OneDrive\Masaüstü\Yeni klasör\SAYAC-master\SAYAC\SAYAC\obj\Debug\SAYAC.csprojAssemblyReference.cache
+C:\Users\baba_\OneDrive\Masaüstü\Yeni klasör\SAYAC-master\SAYAC\SAYAC\obj\Debug\SAYAC.Form1.resources
+C:\Users\baba_\OneDrive\Masaüstü\Yeni klasör\SAYAC-master\SAYAC\SAYAC\obj\Debug\SAYAC.Form2.resources
+C:\Users\baba_\OneDrive\Masaüstü\Yeni klasör\SAYAC-master\SAYAC\SAYAC\obj\Debug\SAYAC.Form3.resources
+C:\Users\baba_\OneDrive\Masaüstü\Yeni klasör\SAYAC-master\SAYAC\SAYAC\obj\Debug\SAYAC.Form4.resources
+C:\Users\baba_\OneDrive\Masaüstü\Yeni klasör\SAYAC-master\SAYAC\SAYAC\obj\Debug\SAYAC.Properties.Resources.resources
+C:\Users\baba_\OneDrive\Masaüstü\Yeni klasör\SAYAC-master\SAYAC\SAYAC\obj\Debug\SAYAC.csproj.GenerateResource.cache
+C:\Users\baba_\OneDrive\Masaüstü\Yeni klasör\SAYAC-master\SAYAC\SAYAC\obj\Debug\SAYAC.csproj.CoreCompileInputs.cache
+C:\Users\baba_\OneDrive\Masaüstü\Yeni klasör\SAYAC-master\SAYAC\SAYAC\obj\Debug\SAYAC.exe
+C:\Users\baba_\OneDrive\Masaüstü\Yeni klasör\SAYAC-master\SAYAC\SAYAC\obj\Debug\SAYAC.pdb
+C:\Users\baba_\OneDrive\Masaüstü\Yeni klasör\SAYAC-master\SAYAC\SAYAC\obj\Debug\SAYAC.Form5.resources
